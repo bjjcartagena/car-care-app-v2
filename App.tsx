@@ -1,6 +1,5 @@
 import React from 'react';
 import { HashRouter, Routes, Route } from 'react-router-dom';
-import VehicleTypeSelection from './pages/VehicleTypeSelection';
 import VehicleProfileSetup from './pages/VehicleProfileSetup';
 import Dashboard from './pages/Dashboard';
 import TaskDetail from './pages/TaskDetail';
